@@ -4,7 +4,7 @@ Every file here is generated. Nothing in this repository is authored, and an
 edit made here is overwritten by the next rebuild.
 
 The source is [wildcat-finance/skills](https://github.com/wildcat-finance/skills).
-This package was generated from commit `be33c4fcfc30330071c6da19863dc3d49078ef02` by
+This package was generated from commit `a2b634d8e039af988bf30c8316defccf70071d8d` by
 `scripts/portable_promise_machine.py` in that repository.
 
 ## Install
